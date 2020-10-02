@@ -6,7 +6,7 @@ redirect_from:
   - /projects.html
 ---
 
-## Computer Engineering and Robotics Projects
+<!-- ## Computer Engineering and Robotics Projects -->
 
 
 ## Mechancial Engineering Projects
@@ -24,8 +24,8 @@ Designed a robot to deliver a small load through a walled-maze. The robot can lo
  Pick up object and Navigation(Speed X5):
 
  <p float="left">
-<img src="../images/projects/mie444_1.gif" width="300" />
-<img src="../images/projects/mie444_2.gif" width="300" />
+<img src="../images/projects/mie444_1.gif" width="400" />
+<img src="../images/projects/mie444_2.gif" width="400" />
  
  </p>
 
@@ -39,8 +39,8 @@ Designed a CNC milling machine and modeled the mechanical structure with SolidWo
  <br />
  
   <p float="left">
-<img src="../images/projects/three_parts.png" width="300" />
-<img src="../images/projects/isometric.png" width="300" />
+<img src="../images/projects/three_parts.png" width="350" />
+<img src="../images/projects/isometric.png" width="400" />
  </p >
 
 ### Lab projects
