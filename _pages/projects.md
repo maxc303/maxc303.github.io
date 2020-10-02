@@ -24,8 +24,8 @@ Designed a robot to deliver a small load through a walled-maze. The robot can lo
  Pick up object and Navigation(Speed X5):
 
  <p float="left">
-<img src="../images/projects/mie444_1.gif" width="400" />
-<img src="../images/projects/mie444_2.gif" width="400" />
+<img src="../images/projects/mie444_1.gif" width="325" />
+<img src="../images/projects/mie444_2.gif" width="325" />
  
  </p>
 
